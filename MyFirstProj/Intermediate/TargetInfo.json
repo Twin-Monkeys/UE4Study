@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MyFirstProj",
+			"Path": "C:\\Users\\GODJIN\\Desktop\\workspace\\Unreal\\MyFirstProj\\Source\\MyFirstProj.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MyFirstProjEditor",
+			"Path": "C:\\Users\\GODJIN\\Desktop\\workspace\\Unreal\\MyFirstProj\\Source\\MyFirstProjEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyFirstProj-2278.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\GODJIN\Desktop\workspace\UE4\MyFirstProj\Intermediate\Build\Win64\MyFirstProjEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\GODJIN\Desktop\workspace\UE4\MyFirstProj\Intermediate\Build\Win64\UE4Editor\Development\MyFirstProj\MyFirstProj.cpp.obj"
+"C:\Users\GODJIN\Desktop\workspace\UE4\MyFirstProj\Intermediate\Build\Win64\UE4Editor\Development\MyFirstProj\MyFirstProjGameModeBase.cpp.obj"
+"C:\Users\GODJIN\Desktop\workspace\UE4\MyFirstProj\Intermediate\Build\Win64\UE4Editor\Development\MyFirstProj\MyFirstProj.init.gen.cpp.obj"
+"C:\Users\GODJIN\Desktop\workspace\UE4\MyFirstProj\Intermediate\Build\Win64\UE4Editor\Development\MyFirstProj\MyFirstProjGameModeBase.gen.cpp.obj"
+"C:\Users\GODJIN\Desktop\workspace\UE4\MyFirstProj\Intermediate\Build\Win64\UE4Editor\Development\MyFirstProj\Default.rc2.res"
+/OUT:"C:\Users\GODJIN\Desktop\workspace\UE4\MyFirstProj\Intermediate\Build\Win64\UE4Editor\Development\MyFirstProj\UE4Editor-MyFirstProj-2278.lib"
+/INCLUDE:IMPLEMENT_MODULE_MyFirstProj
